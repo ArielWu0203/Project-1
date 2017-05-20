@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>bg1.jpg</file>
+        <file>bg2.png</file>
+        <file>Bbuildmain.png</file>
+        <file>Abuildmain.png</file>
+        <file>Abuild.png</file>
+        <file>a1.png</file>
+        <file>B.png</file>
+        <file>btn1.png</file>
+        <file>btn2.png</file>
+        <file>btn3.png</file>
+        <file>btn4.png</file>
+        <file>a2.png</file>
+        <file>a3.png</file>
+        <file>a4.png</file>
+        <file>a11.png</file>
+        <file>a22.png</file>
+        <file>a44.png</file>
+        <file>a33.png</file>
+        <file>Aattack.png</file>
+        <file>Battack.png</file>
+    </qresource>
+</RCC>
